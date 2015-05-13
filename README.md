@@ -1,7 +1,6 @@
 This is a very simple class assignment emulating a national park reservation system. It was initially completed in 2008 using JDK 1.6.0_16. I have not tested it using any other JDK's but I did test it before uploading it.
 
 To compile:
-
 C:\Program Files\Java\jdk1.6.0_16\bin
 javac file.java
 
